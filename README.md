@@ -10,7 +10,9 @@ hist(x)
 
 ## Seccion 1
 
-Esto es un texto
+Esto es un texto $f(x)= x^2$. 
+
+$$x\simN(0,\sigma^2)$$
 
 ## Seccion 2
 
