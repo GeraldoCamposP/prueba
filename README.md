@@ -16,6 +16,6 @@ $$x\sim N(0,\sigma^2)$$
 
 ## Enlace e imagen
 
-Esto es un enlace: [Git](https://git-scm.com/)
+Esto es un enlace: [mi repositorio](https://github.com/GeraldoCamposP/prueba).
 
-Esto es una imagen: ![Image](figures/raw/logo-uni-300.png)
+Esto es una imagen de Git: ![Git](figuras/imagen_git.png)
