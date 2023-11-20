@@ -19,3 +19,11 @@ $$x\sim N(0,\sigma^2)$$
 Esto es un enlace: [mi repositorio](https://github.com/GeraldoCamposP/prueba).
 
 Esto es una imagen de Git: ![Git](figuras/imagen_git.png)
+
+## Esto es una tabla
+
+|Id | Profession | Age |
+|-- | -- | -- |
+|1 | Statistician | 25 |
+|2 | Writer | 32 |
+
