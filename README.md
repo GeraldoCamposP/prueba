@@ -8,12 +8,14 @@ hist(x)
 ```
 
 
-## Seccion 1
+## Ecuaciones
 
 Esto es un texto $f(x)= x^2$. 
 
 $$x\sim N(0,\sigma^2)$$
 
-## Seccion 2
+## Enlace e imagen
 
-Textos de peurba 
+Esto es un enlace: [Git](https://git-scm.com/)
+
+Esto es una imagen: ![Image](figures/raw/logo-uni-300.png)
