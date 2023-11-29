@@ -27,3 +27,7 @@ Esto es una imagen de Git: ![Git](figuras/imagen_git.png)
 |1 | Statistician | 25 |
 |2 | Writer | 32 |
 
+## Enseñando
+
+Esto es un texto $f(x)= x^2 + x +5$. 
+
